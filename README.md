@@ -1,2 +1,17 @@
 # DL4J-Collab-Example
 Deep Learning4j collab example 
+
+Includes
+
+DL4J_Gen_Adversarial_Network_Example
+
+DeepLearning4J_Autoencoder_Example
+
+DeepLearning4J_Transfer_Learning_Example
+
+DL4J_word to Vectors
+
+DL4J_Long_Short_Term_Memory_Example
+
+DL4J_Recurrent_Neural_Network
+
